@@ -1,5 +1,5 @@
-
-## Meu Nome é Henrique Assunção Ferreira, sou fascinado por tecnologia, estou formando em Análise e Desenvolvimento de Sistemas. Possuo noções em desenvolvimento de software, banco de dados como Html, C#, SQL. Sou uma pessoa proativa, organizada e comprometida, busco uma oportunidade de estágio onde eu possa adquirir experiência prática, contribuir com a equipe e desenvolver minhas habilidades como futuro profissional de tecnologia. Possuo conhecimentos intermediários em Hardware, WORD, Excel, Power BI
+ 
+Meu Nome é Henrique Assunção Ferreira, sou fascinado por tecnologia, estou formando em Análise e Desenvolvimento de Sistemas. Possuo noções em desenvolvimento de software, banco de dados como Html, C#, SQL. Sou uma pessoa proativa, organizada e comprometida, busco uma oportunidade de estágio onde eu possa adquirir experiência prática, contribuir com a equipe e desenvolver minhas habilidades como futuro profissional de tecnologia. Possuo conhecimentos intermediários em Hardware, WORD, Excel, Power BI
 
 <p align="left">
     </a>
