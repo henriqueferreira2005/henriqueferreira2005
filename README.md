@@ -3,7 +3,7 @@ Meu Nome é Henrique Assunção Ferreira, sou fascinado por tecnologia, estou fo
 
 <p align="left">
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/henriqueferreira2005?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
